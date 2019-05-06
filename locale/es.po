@@ -326,7 +326,7 @@ msgstr "Brightness debe estar entro 0 y 255"
 
 #: shared-bindings/displayio/Display.c
 msgid "Brightness not adjustable"
-msgstr ""
+msgstr "Brightness no es ajustable"
 
 #: shared-module/usb_hid/Device.c
 #, c-format
